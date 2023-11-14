@@ -72,3 +72,10 @@ Don't forget to give the project a star! Thanks again!
 * The authors extend their heartfelt thanks to Professor Vishnu Pendyala, whose commitment to intuition-based and continuous learning has profoundly shaped their academic journey in Machine Learning. His approach of emphasizing critical thinking significantly enriched the authors' understanding and contributed to the robustness of this project. The intellectual curiosity sparked in his classes was invaluable.
 * Thanks to all the contributors who spend time to help improve this project.
 * Special thanks to the data providers and researchers who have made their work available to the community.
+
+## Authors
+Divya Neelamegam - [@divneela](https://github.com/divneela)
+Poojitha Venkat Ram - [@poojithavenkatram](https://github.com/poojithavenkatram)
+Shruti Badrinarayanan - [@shruti-badri-14](https://github.com/shruti-badri-14)
+Sourabh Suresh Kumar - [@](https://github.com/)
+Padhmavathy Cebolu Srinivasan - [@PadhmaCebolu](https://github.com/PadhmaCebolu)
