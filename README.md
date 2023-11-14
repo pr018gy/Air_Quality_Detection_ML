@@ -1,7 +1,7 @@
 # Air_Quality_Detection_ML
 
 ## Introduction
-The "Predicting Air Quality for Health Risk Assessment: A Machine Learning Approach" project aims to classifiy the Air Quality Index (AQI) into various categories in line with Sustainability Goals. By utilizing  Decision Trees, Support Vector Machine (SVM) with Radial Basis Function (RBF) kernel, and XGBoost Models along with ARIMA for time series forecasting, this project aims to provide accurate AQI predictions, which are crucial for monitoring environmental quality and public health.
+The "Predicting Air Quality for Health Risk Assessment: A Machine Learning Approach" project aims to classifiy the Air Quality Index (AQI) into various categories in line with Sustainability Goals. By utilizing  Decision Trees, Support Vector Machine (SVM) with Radial Basis Function (RBF) kernel, and XGBoost Models along with ARIMA for time series forecasting, this project aims to provide accurate AQI bucket classifications, which are crucial for monitoring environmental quality and public health.
 
 ## Features
 - Efficient feature selection.
